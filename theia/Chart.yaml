@@ -1,7 +1,0 @@
-apiVersion: v2
-name: theia
-description: Theia 
-type: application
-version: 0.1.0
-appVersion: ""
-icon: https://user-images.githubusercontent.com/497246/79681949-cd9f6480-81f4-11ea-959b-b256634260e4.png
