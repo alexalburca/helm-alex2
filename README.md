@@ -1,3 +1,6 @@
 # helm-alex2
 
 TESTE DE TREINAMENTO
+
+HELM
+KUBERNETES
